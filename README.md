@@ -1,2 +1,1 @@
-# Supernova
-Work on eyrc
+# Electronics Bootcamp
